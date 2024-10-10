@@ -1,0 +1,18 @@
+1) Customers who as placd most orders
+2) Second highest employee name wh has handled most orders
+3) Which Supplier has sold most categories -'Beverages'
+4)Which category name has sold most products
+5) Write a function to calculate product price (price*unit -discount) -discout is 7% for all products
+6) Write a function to fetch Employee full name when employee id is passed as input
+7) Write the stored procedure for the following case
+	a)Insert a product info (get all the values as input)
+	b)Insert an entry in order detail for the product id you inserted
+	c)Insert an entry in order table for the order date you entered in order detail table
+	d) Compute price -product price (price*unit -discount) -discout is 13%
+8) calculate age of employee based on birthdate
+9) Calculate which product has sold 3rd highest quantity 
+10) Generate new postal code for suppliers - (eg. city -Tokyo and first 2 digits of phone number is 03 then code is - 03TO)
+
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
+
+https://github.com/AndrejWeb/w3schools-database/blob/master/w3schools.sql
